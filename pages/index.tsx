@@ -49,7 +49,7 @@ export default function Home() {
           name="keywords"
           content="Birthday, love letter, surprise, romantic, interactive"
         />
-        <meta name="author" content="Made with 💕" />
+        <meta name="author" content="Made by Aloo 💕" />
 
         {/* Favicon - Multiple formats for better browser support */}
         <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
@@ -93,8 +93,8 @@ export default function Home() {
         <Confetti trigger={showConfetti} onComplete={handleConfettiComplete} />
 
         <footer className="px-4 py-8 text-center text-text/60 relative z-50">
-          <p className="text-sm">birthday — 25 September</p>
-          <p className="text-xs mt-2">Made with 💕</p>
+          <p className="text-sm">Friday, 25 September 2026</p>
+          <p className="text-xs mt-2">Made by Aloo 💕</p>
         </footer>
       </main>
 
