@@ -21,12 +21,7 @@ export default function SealedLetter({
 }: SealedLetterProps) {
   const [kissParticles, setKissParticles] = useState<KissParticle[]>([]);
 
-  const currentDate = new Date().toLocaleDateString('en-US', {
-    weekday: 'long',
-    year: 'numeric',
-    month: 'long',
-    day: 'numeric',
-  });
+  const currentDate = 'Friday, 25 September 2026';
 
   const handleSendKiss = () => {
     // Create kiss particles animation
@@ -221,4 +216,3 @@ export default function SealedLetter({
     </div>
   );
 }
-
