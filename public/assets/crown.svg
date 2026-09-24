@@ -1,0 +1,18 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Main crown base -->
+  <path d="M20 100L30 80L50 70L80 60L110 70L130 80L140 100L140 120L20 120L20 100Z" fill="#FFB6E6" stroke="#FFD8A8" stroke-width="2"/>
+  <!-- Crown peaks -->
+  <path d="M30 80L40 40L50 80" fill="#FFD8A8" stroke="#FFB6E6" stroke-width="1.5"/>
+  <path d="M50 80L60 30L70 80" fill="#FFD8A8" stroke="#FFB6E6" stroke-width="1.5"/>
+  <path d="M80 60L80 20L80 60" fill="#FFD8A8" stroke="#FFB6E6" stroke-width="1.5"/>
+  <path d="M90 80L100 30L110 80" fill="#FFD8A8" stroke="#FFB6E6" stroke-width="1.5"/>
+  <path d="M110 80L120 40L130 80" fill="#FFD8A8" stroke="#FFB6E6" stroke-width="1.5"/>
+  <!-- Gems/Jewels -->
+  <circle cx="60" cy="50" r="5" fill="#FFE5F1"/>
+  <circle cx="80" cy="35" r="6" fill="#FFE5F1"/>
+  <circle cx="100" cy="50" r="5" fill="#FFE5F1"/>
+  <!-- Sparkle details -->
+  <circle cx="45" cy="55" r="2" fill="#FFD8A8"/>
+  <circle cx="115" cy="55" r="2" fill="#FFD8A8"/>
+</svg>
+
