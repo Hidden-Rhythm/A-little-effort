@@ -7,7 +7,7 @@ It's your birthday today ,I am so happy and excited to celebrate you — your ki
 
 Don't forget me send me your pic's. Happy Birthday! 🌸
 
-— With all my love, Aloo`,
+— With all my love, Hidden`,
   cta: 'Open your gift ✨',
   toast: {
     copied: 'Message copied! Send it with a heart 💌',
