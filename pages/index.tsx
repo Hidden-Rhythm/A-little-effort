@@ -49,7 +49,7 @@ export default function Home() {
           name="keywords"
           content="Birthday, love letter, surprise, romantic, interactive"
         />
-        <meta name="author" content="Made by Aloo 💕" />
+        <meta name="author" content="Made by Hidden 💕" />
 
         {/* Favicon - Multiple formats for better browser support */}
         <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
@@ -94,7 +94,7 @@ export default function Home() {
 
         <footer className="px-4 py-8 text-center text-text/60 relative z-50">
           <p className="text-sm">Friday, 25 September 2026</p>
-          <p className="text-xs mt-2">Made by Aloo 💕</p>
+          <p className="text-xs mt-2">Made by Hidden 💕</p>
         </footer>
       </main>
 
