@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import Head from 'next/head';
+import Head from 'next/head'; 
 import Hero from '@/components/Hero';
 import MessageCard from '@/components/MessageCard';
 import Confetti from '@/components/Confetti';
